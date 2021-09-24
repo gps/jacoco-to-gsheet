@@ -1,5 +1,7 @@
 name: Build Distribution
 on: [push]
+    branches:
+      - master
 jobs:
   build-distribution:
     runs-on: ubuntu-latest
