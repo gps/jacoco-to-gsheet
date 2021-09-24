@@ -1,5 +1,5 @@
 name: Build Distribution
-on: [pull_request]
+on: [push]
 jobs:
   build-distribution:
     runs-on: ubuntu-latest
