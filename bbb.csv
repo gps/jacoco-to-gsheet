@@ -1,0 +1,1493 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,24,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.new Function1() {...},0,99,0,0,0,20,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,SetExternalIncomingTransferSessionTokenRecordInactiveForToken.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,SetExternalIncomingTransferSessionTokenRecordInactiveForTokenPostgres,0,28,0,0,0,6,0,2,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,SetExternalIncomingTransferSessionTokenRecordInactiveForToken,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.queries,DatabaseModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.utils,CurrencyListByBCNUserId..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.utils,CurrencyListByBCNUserId..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.utils,CurrencyListByBCNUserId,0,35,0,0,0,6,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.shared,FeeInfo,0,21,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transfers.shared,TransactionFeeGeneratorImpl,0,36,0,0,0,9,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.shared,TransactionSummary,6,36,0,0,0,4,2,3,2,3
+BCN-WS,com.resoluttech.bcn.transfers.shared,TransactionFeeGeneratorImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile,ApplicationKt.appModule.1.1.new Function1() {...},0,4,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile,RoutesModuleKt.routesModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile,ListDummyUsersRPCServerImpl,13,84,1,1,1,16,1,3,0,3
+BCN-WS,com.resoluttech.bcn.profile,ApplicationKt.appModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile,ApplicationKt.module.2.new Function3() {...},10,34,4,3,0,5,4,1,0,1
+BCN-WS,com.resoluttech.bcn.profile,RoutesModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.profile,ListDummyUsersRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile,ListDummyUsersRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile,ApplicationKt.appModule.1.new Function2() {...},0,8,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile,ApplicationKt.appModule.1.new Function2() {...},0,13,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile,ApplicationKt.module.new Function1() {...},0,8,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile,ApplicationKt.module.new Function1() {...},0,18,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile,ApplicationKt,28,43,1,1,4,8,3,2,2,2
+BCN-WS,com.resoluttech.bcn.profile,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn.queries,FindNumberOfFailedRequestsInIntervalForPhoneNumber,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn.queries,FindNumberOfFailedRequestsInIntervalForPhoneNumber.Input,0,21,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn.queries,InsertValuesToSignUpInFailedRequest,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn.queries,FindNumberOfFailedRequestsInIntervalForPhoneNumberPostgres,0,49,0,0,0,7,0,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn.queries,InsertValuesToSignUpInFailedRequest.Input,0,21,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn.queries,SetOTPIdForShadowLoginTable,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn.queries,SetOTPIdForShadowLoginTablePostgres,43,0,2,0,9,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn.queries,SetOTPIdForShadowLoginTable.Input,21,0,0,0,3,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn.queries,InsertValuesToSignUpInFailedRequestPostgres,13,30,1,1,1,9,1,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn.queries,FindNumberOfFailedRequestsInIntervalForPhoneNumber.Result,0,9,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn.queries,FindNumberOfFailedRequestsInIntervalForPhoneNumberPostgres.implementation.new RecordMapper() {...},0,16,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,ResendSignInOTPRPCServerImpl,5,211,1,13,0,37,1,11,0,5
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl.PasswordSource.BCNUserTable,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl,26,367,5,11,7,62,4,10,0,6
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,SignInUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,SignInUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,SignInUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl.getResponse.new Function1() {...},0,17,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,SignInUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,SignInUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,SignInUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,SignInUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,SignInUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,SignInUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,ResendSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,ResendSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl.getResponse.passwordSource.new Function1() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,SignInUserRPCServerImpl.getResponse.new Function1() {...},0,42,0,2,0,7,0,2,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,ConfirmSignInOTPRPCServerImpl,5,401,1,15,0,45,1,11,0,4
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,SignInUserRPCServerImpl,21,347,4,14,0,60,4,12,0,7
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,ConfirmSignInOTPRPCServerImpl.getResponse.new Function1() {...},0,31,0,0,0,5,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,ConfirmSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,ConfirmSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,ConfirmSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,ConfirmSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,ConfirmSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,ConfirmSignInOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,ConfirmSignInOTPRPCServerImpl.getResponse.shadowLoginRecord.new Function1() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signIn,RequestSignInOTPRPCServerImpl.PasswordSource.ShadowLoginTable,13,0,0,0,1,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserAndDefaultBCNAccountFromPhoneNumberPostgres,0,110,0,0,0,19,0,2,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserAndDefaultBCNAccountFromPhoneNumber.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindExternalCounterpartyInfoFromSessionToken.Result,0,54,0,0,0,7,0,7,0,7
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindCounterpartyCurrencyCodeFromExternalIncomingTransferCounterpartyId,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserAndDefaultBCNAccountFromPhoneNumber.Result,0,57,0,0,0,8,0,8,0,8
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserInfoAndAcceptedCurrencyFromPhoneNumberPostgres.implementation.new RecordMapper() {...},33,0,0,0,5,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindLoadMoneyFromExternalIncomingCounterpartyToBCNTableBySourceSystemTransactionId.Input,0,21,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNAccountById.Result,0,27,0,0,0,4,0,4,0,4
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserInfoAndAcceptedCurrencyFromPhoneNumber.Input,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindLoadMoneyFromExternalIncomingCounterpartyToBCNTableBySourceSystemTransactionIdPostgres,0,89,0,2,0,17,0,3,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserInfoAndAcceptedCurrencyFromPhoneNumberPostgres,94,0,0,0,17,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserInfoFromPhoneNumber,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindExternalCounterpartyInfoFromSessionToken,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindCounterpartyCurrencyCodeFromExternalIncomingTransferCounterpartyIdPostgres.implementation.new RecordMapper() {...},13,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,InsertValuesToLoadMoneyFromExternalIncomingCounterpartyToBCNTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserInfoFromPhoneNumberPostgres.implementation.new RecordMapper() {...},25,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserInfoFromPhoneNumber.Input,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNAccountByIdPostgres,0,45,0,0,0,8,0,2,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindCounterpartyCurrencyCodeFromExternalIncomingTransferCounterpartyId.Result,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindActiveSessionTokenInfoFromTokenPostgres,48,0,2,0,10,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserInfoFromPhoneNumberPostgres,70,0,0,0,12,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindExternalCounterpartyInfoFromSessionTokenPostgres.implementation.new RecordMapper() {...},0,48,0,0,0,7,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserInfoAndAcceptedCurrencyFromPhoneNumber.Result,33,0,0,0,5,0,5,0,5,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindExternalCounterpartyInfoFromSessionTokenPostgres,0,80,0,2,0,14,0,3,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindActiveSessionTokenInfoFromToken.Input,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNAccountById.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserAndDefaultBCNAccountFromPhoneNumber,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindLoadMoneyFromExternalIncomingCounterpartyToBCNTableBySourceSystemTransactionId.Result,9,60,0,0,3,6,3,6,3,6
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindCounterpartyCurrencyCodeFromExternalIncomingTransferCounterpartyIdPostgres,51,0,0,0,10,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNAccountByIdPostgres.implementation.new RecordMapper() {...},0,29,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,InsertRealTransactionIdsInCounterpartyTransactionTablePostgres,13,39,1,1,1,10,1,2,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,InsertRealTransactionIdsInCounterpartyTransactionTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserInfoAndAcceptedCurrencyFromPhoneNumber,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindLoadMoneyFromExternalIncomingCounterpartyToBCNTableBySourceSystemTransactionId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindActiveSessionTokenInfoFromToken.Result,21,0,0,0,3,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindActiveSessionTokenInfoFromTokenPostgres.implementation.new RecordMapper() {...},23,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserInfoFromPhoneNumber.Result,24,0,0,0,4,0,4,0,4,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindLoadMoneyFromExternalIncomingCounterpartyToBCNTableBySourceSystemTransactionIdPostgres.implementation.new RecordMapper() {...},0,64,0,0,0,9,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,InsertValuesToLoadMoneyFromExternalIncomingCounterpartyToBCNTablePostgres,13,76,1,1,1,15,1,2,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNAccountById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,InsertValuesToLoadMoneyFromExternalIncomingCounterpartyToBCNTable.Input,251,96,32,0,27,12,18,12,2,12
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindCounterpartyCurrencyCodeFromExternalIncomingTransferCounterpartyId.Input,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindBCNUserAndDefaultBCNAccountFromPhoneNumberPostgres.implementation.new RecordMapper() {...},0,55,0,0,0,8,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindActiveSessionTokenInfoFromToken,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,InsertRealTransactionIdsInCounterpartyTransactionTable.Input,0,39,0,0,0,5,0,5,0,5
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney.queries,FindExternalCounterpartyInfoFromSessionToken.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.utils,ValidateTokenAndGetExternalIncomingTransferCounterpartyIdKt.validateTokenAndGetExternalIncomingTransferCounterpartyId.externalIncomingTransferCounterpartyId.new Function1() {...},46,0,4,0,10,0,3,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.utils,ValidateTokenAndGetExternalIncomingTransferCounterpartyIdKt,50,0,6,0,8,0,4,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSessionErrorDetails..serializer,37,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSessionErrorDetails,164,0,16,0,6,0,16,0,8,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSessionOrder,30,0,0,0,4,0,4,0,4,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSessionResponse,39,0,0,0,5,0,5,0,5,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSessionError,21,0,0,0,3,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSessionInteraction..serializer,21,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSessionOrder..serializer,29,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSessionResponse..serializer,33,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSessionError..serializer,25,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSessionRequest,30,0,0,0,4,0,4,0,4,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSession..serializer,29,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSessionRequest..serializer,29,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSession,30,0,0,0,4,0,4,0,4,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs.createMPGSCheckoutSession,CreateMPGSCheckoutSessionInteraction,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.utils,AuthTokenForClient,0,21,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.signUpIn.utils,SignUpInRequestHandler.insertSignUpInRequestRecord.new Function1() {...},0,18,0,0,0,6,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.utils,SignUpInRequestHandler..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.utils,SignUpInRequestHandler..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.utils,SignUpInRequestHandler..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.utils,SignUpInRequestHandler..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.utils,SignUpInRequestHandler,2,62,0,2,1,12,0,4,0,3
+BCN-WS,com.resoluttech.bcn.signUpIn.utils,SignUpInRequestHandler.SignUpInRequestType,0,82,0,0,0,7,0,3,0,3
+BCN-WS,com.resoluttech.bcn.signUpIn.utils,InsertSLTAndLLTInDB..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.utils,InsertSLTAndLLTInDB..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.utils,InsertSLTAndLLTInDB..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.utils,InsertSLTAndLLTInDB,0,87,0,0,0,17,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,FindActiveExchangeRateFromAccountIdsPostgres.implementation.new RecordMapper() {...},0,30,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,FindSendMoneyAccountToAccountById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,InsertValuesToSendMoneyAccountToAccountTable.Input,0,90,0,0,0,10,0,11,0,11
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,UpdateSendMoneyAccountToAccountById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,FindActiveExchangeRateFromAccountIdsPostgres,0,81,0,0,0,17,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,FindActiveExchangeRateFromAccountIds,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,InsertValuesToSendMoneyAccountToAccountTablePostgres,14,84,1,1,0,15,1,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,UpdateSendMoneyAccountToAccountByIdPostgres,13,48,1,1,1,10,1,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,UpdateSendMoneyAccountToAccountById.Input,14,42,0,0,0,6,1,6,1,6
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,InsertValuesToSendMoneyAccountToAccountTable.Result,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,FindSendMoneyAccountToAccountByIdPostgres.implementation.new RecordMapper() {...},4,157,2,2,0,17,2,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,InsertValuesToSendMoneyAccountToAccountTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,InsertValuesToSendMoneyAccountToAccountTablePostgres.implementation.new RecordMapper() {...},0,13,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,FindSendMoneyAccountToAccountById.Result,9,111,0,0,3,14,3,14,3,14
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,FindActiveExchangeRateFromAccountIds.Result,0,27,0,0,0,4,0,4,0,4
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,FindSendMoneyAccountToAccountById.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,FindSendMoneyAccountToAccountByIdPostgres,0,114,0,0,0,20,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount.queries,FindActiveExchangeRateFromAccountIds.Input,0,21,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,FindPhoneNumberValidatedTokenInfoFromShadowLoginTablePostgres,0,64,0,2,0,11,0,3,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,InsertValuesToShadowLoginTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,SetPhoneNumberValidatedTokenInfoForShadowLoginTable.Input,0,30,0,0,0,4,0,4,0,4
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,SetPasswordValidatedTokenInfoForShadowLoginTable.Input,0,39,0,0,0,5,0,5,0,5
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,SetPhoneNumberValidatedTokenInfoForShadowLoginTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,SetPasswordValidatedTokenInfoForShadowLoginTablePostgres,13,43,1,1,1,10,1,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,CheckPhoneNumberPresentInBCNUserTable.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,SetPasswordValidatedTokenInfoForShadowLoginTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,CheckPhoneNumberAndPasswordPresentInShadowLoginTable.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,FindPhoneNumberValidatedTokenInfoFromShadowLoginTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,SetPhoneNumberValidatedTokenInfoForShadowLoginTablePostgres,13,37,1,1,1,9,1,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,FindShadowLoginByOtpId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,CheckPhoneNumberAndPasswordPresentInShadowLoginTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,FindPhoneNumberValidatedTokenInfoFromShadowLoginTablePostgres.implementation.new RecordMapper() {...},0,54,0,0,0,7,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,InsertValuesToShadowLoginTable.Input,0,49,0,0,0,5,0,6,0,6
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,CheckPhoneNumberAndPasswordPresentInShadowLoginTable.Result,3,15,0,0,1,2,1,2,1,2
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,CheckPhoneNumberPresentInBCNUserTablePostgres.implementation.new RecordMapper() {...},0,13,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,FindPhoneNumberValidatedTokenInfoFromShadowLoginTable.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,FindShadowLoginByOtpIdPostgres,0,48,0,2,0,8,0,3,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,FindShadowLoginByOtpId.Result,3,33,0,0,1,4,1,4,1,4
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,CheckPhoneNumberPresentInBCNUserTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,24,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,FindPhoneNumberValidatedTokenInfoFromShadowLoginTable.Result,56,48,10,0,6,7,7,7,2,7
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,InsertValuesToShadowLoginTablePostgres,13,46,1,3,1,9,1,3,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,CheckPhoneNumberAndPasswordPresentInShadowLoginTablePostgres.implementation.new RecordMapper() {...},0,19,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.new Function1() {...},0,149,0,0,0,30,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,CheckPhoneNumberPresentInBCNUserTablePostgres,0,46,0,2,0,7,0,3,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,FindShadowLoginByOtpId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,FindShadowLoginByOtpIdPostgres.implementation.new RecordMapper() {...},0,32,0,0,0,5,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,CheckPhoneNumberPresentInBCNUserTable.Result,3,9,0,0,1,1,1,1,1,1
+BCN-WS,com.resoluttech.bcn.signUpIn.queries,CheckPhoneNumberAndPasswordPresentInShadowLoginTablePostgres,0,49,0,2,0,7,0,3,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken.queries,FindPasswordFromExternalIncomingTransferCounterpartyTableByClientIdPostgres.implementation.new RecordMapper() {...},0,19,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken.queries,InsertValuesToExternalIncomingTransferSessionTokenTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken.queries,InsertValuesToExternalIncomingTransferSessionTokenTable.Input,0,39,0,0,0,5,0,5,0,5
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken.queries,FindPasswordFromExternalIncomingTransferCounterpartyTableByClientId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken.queries,FindPasswordFromExternalIncomingTransferCounterpartyTableByClientId.Result,56,21,10,0,6,3,7,3,2,3
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken.queries,InsertValuesToExternalIncomingTransferSessionTokenTablePostgres,13,40,1,1,1,9,1,2,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken.queries,FindPasswordFromExternalIncomingTransferCounterpartyTableByClientIdPostgres,0,42,0,2,0,7,0,3,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken.queries,FindPasswordFromExternalIncomingTransferCounterpartyTableByClientId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.email,ApplicationKt,30,46,1,1,4,8,4,2,3,2
+BCN-WS,com.resoluttech.bcn.email,ApplicationKt.appModule.1.new Function2() {...},0,8,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.email,ApplicationKt.appModule.1.new Function2() {...},0,13,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.email,ApplicationKt.appModule.1.1.new Function1() {...},0,4,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.email,ApplicationKt.appModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.email,RoutesModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.email,SendEmailRPCServerImpl,0,11,0,0,0,4,0,2,0,2
+BCN-WS,com.resoluttech.bcn.email,RoutesModuleKt.routesModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.email,ApplicationKt.module.new Function1() {...},0,8,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.email,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.email,ApplicationKt.s2sValidation.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.email,ApplicationKt.s2sValidation.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindBCNUserByBCNAccountIdPostgres.implementation.new RecordMapper() {...},0,64,0,0,0,10,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindBCNUserAndBCNAccountByBCNAccountId.Result,0,27,0,0,0,4,0,4,0,4
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindBCNUserAndBCNAccountByBCNAccountId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindTransactionsByAccountId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindTransactionsByAccountId.Result,15,234,0,0,5,35,5,35,5,35
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindLocalizedImageByIdPostgres,0,39,0,0,0,9,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindBCNUserByBCNAccountIdPostgres,0,77,0,0,0,16,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transactions.queries,DatabaseModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindTransactionsByAccountIdPostgres,4,545,2,2,0,70,2,2,0,2
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindLocalizedImageById.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindBCNUserAndBCNAccountByBCNAccountId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindLocalizedImageById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindLocalizedImageById.Result,0,21,0,0,0,4,0,4,0,4
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindBCNUserByBCNAccountId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindTransactionsByAccountIdPostgres.implementation.new RecordMapper() {...},0,382,0,0,0,40,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindTransactionsByAccountId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindLocalizedImageByIdPostgres.implementation.new RecordMapper() {...},0,29,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindBCNUserAndBCNAccountByBCNAccountIdPostgres,0,55,0,2,0,10,0,3,0,2
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindBCNUserByBCNAccountId.Result,0,66,0,0,0,10,0,10,0,10
+BCN-WS,com.resoluttech.bcn.transactions.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,24,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,DatabaseModuleKt.databaseModule.new Function1() {...},0,49,0,0,0,10,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindBCNUserAndBCNAccountByBCNAccountIdPostgres.implementation.new RecordMapper() {...},0,26,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transactions.queries,FindBCNUserByBCNAccountId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transactions.util,LocalizationUtilKt,14,13,1,1,2,2,1,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.util,LocalizationUtil..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.util,ImageUtils..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.util,LocalizationUtil,0,52,0,0,0,8,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transactions.util,ImageUtils,16,259,1,9,1,47,1,10,0,6
+BCN-WS,com.resoluttech.bcn.transactions.util,ImageUtils.baseUrl.new Function0() {...},0,6,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,CreateLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,CreateLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,CreateLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,CreateLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,CreateLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,CreateLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,CreateLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,CreateLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl.mpgsPassword.new Function0() {...},6,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl.getResponse.loadMoneyRecord.new Function1() {...},33,0,0,0,7,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,CreateLoadMoneyFromMPGSRPCServerImpl,280,0,14,0,40,0,11,0,4,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,CreateLoadMoneyFromMPGSRPCServerImpl.getResponse.new Function1() {...},143,0,2,0,29,0,2,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyUtilsKt,30,0,3,0,5,0,3,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl.getCreateMPGSCheckoutSessionResponse.new Function1() {...},21,0,0,0,5,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl,703,0,22,0,215,0,22,0,10,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl.getResponse.new Function1() {...},14,0,0,0,6,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl.getCreateMPGSCheckoutSessionResponse.2.new Function1() {...},22,0,0,0,3,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl.getResponse.new Function1() {...},62,0,2,0,11,0,2,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl.apiClient.new Function0() {...},8,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,ConfirmLoadMoneyFromMPGSRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney,LoadMoneyFromMPGSRPCServerImpl,851,0,21,0,184,0,23,0,12,0
+BCN-WS,com.resoluttech.bcn.otp.queries,InsertOTPRecord.Input,0,75,0,0,0,10,0,10,0,10
+BCN-WS,com.resoluttech.bcn.otp.queries,FindValidateOTPById.Result,0,27,0,0,0,4,0,4,0,4
+BCN-WS,com.resoluttech.bcn.otp.queries,FindReSendOTPById.Result,0,72,0,0,0,10,0,10,0,10
+BCN-WS,com.resoluttech.bcn.otp.queries,FindValidateOTPByIdPostgres.implementation.new RecordMapper() {...},0,30,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,FindReSendOTPByIdPostgres.implementation.new RecordMapper() {...},0,71,0,0,0,10,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,InsertOTPRecord,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,UpdateResendOTPByIdPostgres,13,72,1,1,1,14,1,2,0,2
+BCN-WS,com.resoluttech.bcn.otp.queries,DatabaseModuleKt.databaseModule.new Function1() {...},0,39,0,0,0,8,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,UpdateValidateOTPByIdPostgres,13,52,1,1,1,11,1,2,0,2
+BCN-WS,com.resoluttech.bcn.otp.queries,FindReSendOTPById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,FindValidateOTPById.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.otp.queries,FindSentOTPCount.Result,0,9,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.otp.queries,UpdateResendOTPById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,UpdateResendOTPById.Input,0,66,0,0,0,9,0,9,0,9
+BCN-WS,com.resoluttech.bcn.otp.queries,FindValidateOTPById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,FindSentOTPCountPostgres,0,160,0,8,0,30,0,6,0,2
+BCN-WS,com.resoluttech.bcn.otp.queries,InsertOTPRecordPostgresKt,4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.otp.queries,FindReSendOTPByIdPostgres,0,75,0,2,0,10,0,3,0,2
+BCN-WS,com.resoluttech.bcn.otp.queries,FindValidateOTPByIdPostgres,0,53,0,2,0,10,0,3,0,2
+BCN-WS,com.resoluttech.bcn.otp.queries,InsertOTPRecordPostgres,13,79,1,1,1,12,1,2,0,2
+BCN-WS,com.resoluttech.bcn.otp.queries,FindSentOTPCount,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,24,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,UpdateValidateOTPById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp.queries,DatabaseModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.otp.queries,FindSentOTPCount.Input,0,24,0,0,0,4,0,4,0,4
+BCN-WS,com.resoluttech.bcn.otp.queries,FindReSendOTPById.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.otp.queries,UpdateValidateOTPById.Input,0,39,0,0,0,6,0,6,0,6
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindSendMoneyExternalToBCNByIdPostgres.implementation.new RecordMapper() {...},118,0,2,0,17,0,2,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,InsertValuesToSendMoneyExternalToBCNTable.Input,100,0,0,0,11,0,12,0,12,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindExternalCounterpartyByUserId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,UpdateSendMoneyExternalToBCNById,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindCounterpartyDetailsById.Result,63,0,0,0,8,0,8,0,8,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,InsertHoldingTransactionIdsInCounterpartyTransactionTable,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindExternalCounterpartyByUserIdPostgres,0,106,0,0,0,19,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindSendMoneyExternalToBCNById.Input,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,InsertHoldingTransactionIdsInCounterpartyTransactionTable.Input,36,0,0,0,5,0,5,0,5,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,UpdateReversalTransactionIdsInCounterpartyTransactionTable.Input,39,0,0,0,5,0,5,0,5,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindExternalCounterpartyByUserId.Result,0,30,0,0,0,4,0,4,0,4
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,InsertHoldingTransactionIdsInCounterpartyTransactionTablePostgres,70,0,2,0,14,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindExternalCounterpartyByUserId,0,3,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindSendMoneyExternalToBCNByIdPostgres,130,0,2,0,19,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,InsertHoldingTransactionIdsInCounterpartyTransactionTable.Result,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindCounterpartyDetailsById,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,UpdateReversalTransactionIdsInCounterpartyTransactionTablePostgres,55,0,2,0,10,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,CheckIfExternalCounterpartyExistsForGivenId.Result,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindCounterpartyDetailsById.Input,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,InsertValuesToSendMoneyExternalToBCNTable.Result,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,UpdateReversalTransactionIdsInCounterpartyTransactionTable,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,InsertHoldingTransactionIdsInCounterpartyTransactionTablePostgres.implementation.new RecordMapper() {...},13,0,0,0,2,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,CheckIfExternalCounterPartyExistsForGivenIdPostgres.implementation.new RecordMapper() {...},13,0,0,0,2,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,InsertValuesToSendMoneyExternalToBCNTablePostgres.implementation.new RecordMapper() {...},13,0,0,0,2,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindCounterpartyDetailsByIdPostgres,57,0,2,0,8,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindCounterpartyDetailsByIdPostgres.implementation.new RecordMapper() {...},50,0,0,0,8,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindSendMoneyExternalToBCNById.Result,120,0,0,0,17,0,17,0,17,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,CheckIfExternalCounterpartyExistsForGivenId,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,InsertValuesToSendMoneyExternalToBCNTable,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,CheckIfExternalCounterpartyExistsForGivenId.Input,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,UpdateRealTransactionIdsInCounterpartyTransactionTablePostgres,55,0,2,0,10,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,UpdateSendMoneyExternalToBCNByIdPostgres,85,0,4,0,14,0,4,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,UpdateRealTransactionIdsInCounterpartyTransactionTable,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,CheckIfExternalCounterPartyExistsForGivenIdPostgres,39,0,2,0,6,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,UpdateRealTransactionIdsInCounterpartyTransactionTable.Input,36,0,0,0,5,0,5,0,5,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,FindSendMoneyExternalToBCNById,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,InsertValuesToSendMoneyExternalToBCNTablePostgres,104,0,2,0,14,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty.queries,UpdateSendMoneyExternalToBCNById.Input,171,0,18,0,18,0,21,0,12,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,SetUserIdValueForKYCTable,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,SetUserIdForPasswordTable.Input,21,0,0,0,3,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,SetUserIdForPasswordTable,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindPasswordValidatedTokenInfoFromShadowLoginTable.Input,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToRemoteBitmapImage.Result,9,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToLeoLLTTable.Input,0,30,0,0,0,4,0,4,0,4
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindIdFromDocument.Result,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindPasswordValidatedTokenInfoFromShadowLoginTablePostgres,57,0,2,0,7,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToLeoLLTTablePostgres,13,35,1,1,1,7,1,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindIdFromDocument,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,SetUserIdValueForKYCTablePostgres,43,0,2,0,9,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToPasswordTable.Input,77,21,12,0,9,3,8,3,2,3
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindIdFromDocumentPostgres,33,0,0,0,6,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToBCNAccountTable.Input,51,0,0,0,7,0,7,0,7,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToPasswordTablePostgres,13,29,1,1,1,8,1,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindPasswordValidatedTokenInfoFromShadowLoginTable.Result,48,0,0,0,6,0,6,0,6,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,SetUserIdForPasswordTablePostgres,43,0,2,0,9,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToBCNAccountTable,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToMultiResolutionBitmapImageTablePostgres,68,0,4,0,10,0,4,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToDefaultBCNAccountTable.Input,30,0,0,0,4,0,4,0,4,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindPasswordValidatedTokenInfoFromShadowLoginTable,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToMultiResolutionBitmapImageTable.Result,9,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,SetShadowLoginTableInactiveForPhoneNumberPostgres,0,29,0,0,0,7,0,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindDocumentTableById.Input,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,SetUserIdValueForKYCTable.Input,21,0,0,0,3,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertKYCDetailsPostgres,113,0,2,0,16,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,SetShadowLoginRecordInactiveForIdPostgres,13,30,1,1,1,8,1,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToMultiResolutionBitmapImageTable,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToBCNUserTable.Input,81,0,0,0,11,0,11,0,11,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToBCNAccountTablePostgres,65,0,2,0,10,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertKYCDetails,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToLeoLLTTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToLeoSLTTable.Input,0,30,0,0,0,4,0,4,0,4
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,SetShadowLoginTableInactiveForPhoneNumber,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,SetShadowLoginTableInactiveForPhoneNumber.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindPasswordValidatedTokenInfoFromShadowLoginTablePostgres.implementation.new RecordMapper() {...},48,0,0,0,6,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertKYCDetails.Input,60,0,0,0,8,0,8,0,8,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToDefaultBCNAccountTable,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToMultiResolutionBitmapImageTable.Input,27,0,0,0,5,0,5,0,5,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToMultiResolutionBitmapImageTablePostgres.implementation.new RecordMapper() {...},14,0,0,0,2,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToLeoSLTTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindDocumentTableById.Result,27,0,0,0,4,0,4,0,4,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToLeoSLTTablePostgres,13,35,1,1,1,7,1,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindIdFromDocument.Input,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,SetShadowLoginRecordInactiveForId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindDocumentTableByIdPostgres.implementation.new RecordMapper() {...},26,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,SetShadowLoginRecordInactiveForId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToRemoteBitmapImagePostgres,72,0,4,0,10,0,4,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToPasswordTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindIdFromDocumentPostgres.implementation.new RecordMapper() {...},14,0,0,0,2,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToBCNUserTable,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToRemoteBitmapImage,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindDocumentTableByIdPostgres,45,0,2,0,7,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,FindDocumentTableById,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToRemoteBitmapImage.Input,39,0,0,0,6,0,6,0,6,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToBCNUserTablePostgres,91,0,4,0,12,0,4,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToDefaultBCNAccountTablePostgres,48,0,2,0,8,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp.queries,InsertValuesToRemoteBitmapImagePostgres.implementation.new RecordMapper() {...},14,0,0,0,2,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.s2sAuthProvider.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.redisModule.1.new Function2() {...},26,49,1,1,3,8,1,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt,28,107,1,1,4,14,3,2,2,2
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl.getHomeLayout.homeLayout.new Function1() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.commonModule.1.1.new Function1() {...},0,4,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ServiceModuleKt.serviceModule.1.2.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.homeScreen,Mocks,0,19,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.module.new Function1() {...},0,27,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.module.new Function1() {...},4,12,1,1,1,3,1,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetMoneyScreenDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.homeScreen,GetMoneyScreenDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.homeScreen,GetMoneyScreenDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl.getUserAccountsByUserId.new Function1() {...},0,15,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ServiceModuleKt.serviceModule.1.1.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.versionCheckerModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,RoutesModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl.getProfileImage.remoteBitMapImageResult.new Function1() {...},0,40,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.s2sAuthProvider.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl,211,1602,40,68,13,173,40,33,0,16
+BCN-WS,com.resoluttech.bcn.homeScreen,ServiceModuleKt.testServiceModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl.getThemedColorById.new Function1() {...},0,15,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImplKt,53,24,6,2,4,3,4,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.versionCheckerModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetMoneyScreenDataRPCServerImpl.getProfileImage.remoteBitMapImageResult.new Function1() {...},40,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.commonModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.module.2..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetMoneyScreenDataRPCServerImpl_ktKt,77,0,8,0,7,0,5,0,1,0
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.module.2.new Function1() {...},0,7,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.module.2.new Function3() {...},5,50,2,5,0,5,2,3,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.commonModule.1.new Function2() {...},0,13,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.commonModule.1.new Function2() {...},0,8,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl.getDefaultBCNAccountsByUserId.defaultBCNAccountsByUserIdResult.new Function1() {...},0,15,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl.getThemedImage.new Function1() {...},11,298,6,14,0,30,6,5,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,RoutesModuleKt.routesModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,RoutesModuleKt.routesModule.1.new Function2() {...},16,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.homeScreen,RoutesModuleKt.routesModule.1.new Function2() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ServiceModuleKt,0,21,0,0,0,2,0,3,0,3
+BCN-WS,com.resoluttech.bcn.homeScreen,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl.getSectionItems.sectionItems.new Function1() {...},0,36,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,GetMoneyScreenDataRPCServerImpl,465,0,22,0,47,0,16,0,5,0
+BCN-WS,com.resoluttech.bcn.homeScreen,GetHomeDataRPCServerImpl.getLocalizedTextById.new Function1() {...},0,15,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ServiceModuleKt.serviceModule.new Function1() {...},0,19,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ApplicationKt.redisModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen,ServiceModuleKt.serviceModule.1.3.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.homeScreen,ServiceModuleKt.serviceModule.1.new Function2() {...},21,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.homeScreen,ServiceModuleKt.serviceModule.1.new Function2() {...},21,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.homeScreen,ServiceModuleKt.serviceModule.1.new Function2() {...},63,0,0,0,11,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.profile.queries,ListDummyUsers,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile.queries,DatabaseModuleKt.databaseModule.new Function1() {...},0,19,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile.queries,ListDummyUsersPostgres,0,58,0,0,0,11,0,2,0,2
+BCN-WS,com.resoluttech.bcn.profile.queries,DatabaseModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.profile.queries,ListDummyUsers.Result,0,36,0,0,0,5,0,5,0,5
+BCN-WS,com.resoluttech.bcn.profile.queries,ListDummyUsersPostgres.implementation.new RecordMapper() {...},0,38,0,0,0,5,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,24,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.profile.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.profile.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},24,0,0,0,3,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments.queries,DatabaseModuleKt.databaseModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments.queries,DatabaseModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.remarks,AddPrivateRemarkRPCServerImpl.execute.new Function1() {...},0,72,0,4,0,12,0,3,0,1
+BCN-WS,com.resoluttech.bcn.transfers.remarks,AddPrivateRemarkRPCServerImpl,0,31,0,0,0,5,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.remarks,AddPrivateRemarkRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.remarks,AddPrivateRemarkRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.remarks,AddPrivateRemarkRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,CheckIfActiveBCNUserIsPresentForGivenIdPostgres.implementation.new RecordMapper() {...},0,13,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserInfoFromBCNAccountIdPostgres,0,95,0,2,0,17,0,3,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserInfoFromPhoneNumber,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindAcceptedCurrencyBasedOnUserIdPostgres,0,69,0,0,0,15,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,InsertValuesToSendMoneyWithinBCNTablePostgres.implementation.new RecordMapper() {...},0,13,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindAcceptedCurrencyBasedOnUserIdPostgres.implementation.new RecordMapper() {...},0,14,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindDefaultBCNAccountByUserIdAndCurrency,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserInfoFromBCNAccountId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindCurrencyCodeByBCNUserId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindSendMoneyWithinBcnById.Result,3,105,0,0,1,14,1,14,1,14
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserAndBCNAccountByBCNAccountId.Result,3,45,0,0,1,6,1,6,1,6
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,CheckIfActiveBCNUserIsPresentForGivenId.Result,3,9,0,0,1,1,1,1,1,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserInfoFromBCNAccountId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserInfoFromPhoneNumber.Result,0,66,0,0,0,10,0,10,0,10
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,InsertValuesToSendMoneyWithinBCNTable,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindCurrencyCodeByBCNUserId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindSendMoneyWithinBcnById.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,UpdateSendMoneyWithinBCNById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,InsertValuesToSendMoneyWithinBCNTable.Input,0,103,0,0,0,11,0,12,0,12
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindDefaultBCNAccountByUserIdAndCurrencyPostgres.implementation.new RecordMapper() {...},0,33,0,0,0,5,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserInfoFromBCNAccountId.Result,0,66,0,0,0,10,0,10,0,10
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindDefaultBCNAccountByUserIdAndCurrencyPostgres,0,65,0,2,0,11,0,3,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserAndBCNAccountByBCNAccountIdPostgres,0,64,0,2,0,12,0,3,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindSendMoneyWithinBcnById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserAndBCNAccountByBCNAccountIdPostgres.implementation.new RecordMapper() {...},0,46,0,0,0,7,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserInfoFromPhoneNumber.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserInfoFromPhoneNumberPostgres,0,88,0,0,0,17,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserAndBCNAccountByBCNAccountId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,CheckIfActiveBCNUserIsPresentForGivenIdPostgres,0,44,0,2,0,7,0,3,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindDefaultBCNAccountByUserIdAndCurrency.Input,0,21,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,InsertValuesToSendMoneyWithinBCNTablePostgres,14,89,1,1,0,14,1,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,CheckIfActiveBCNUserIsPresentForGivenId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindDefaultBCNAccountByUserIdAndCurrency.Result,3,30,0,0,1,4,1,4,1,4
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,UpdateSendMoneyWithinBCNById.Input,27,48,0,0,0,7,1,7,1,7
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserAndBCNAccountByBCNAccountId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindSendMoneyWithinBcnByIdPostgres,0,114,0,0,0,19,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindAcceptedCurrencyBasedOnUserId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,CheckIfActiveBCNUserIsPresentForGivenId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindSendMoneyWithinBcnByIdPostgres.implementation.new RecordMapper() {...},0,119,0,2,0,15,0,2,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserInfoFromBCNAccountIdPostgres.implementation.new RecordMapper() {...},0,61,0,0,0,10,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindBCNUserInfoFromPhoneNumberPostgres.implementation.new RecordMapper() {...},0,64,0,0,0,10,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindAcceptedCurrencyBasedOnUserId.Input,0,21,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindCurrencyCodeByBCNUserId.Result,0,57,0,0,0,9,0,9,0,9
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,UpdateSendMoneyWithinBCNByIdPostgres,13,54,1,1,1,11,1,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,InsertValuesToSendMoneyWithinBCNTable.Result,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindAcceptedCurrencyBasedOnUserId.Result,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindCurrencyCodeByBCNUserIdPostgres.implementation.new RecordMapper() {...},0,57,0,0,0,9,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn.queries,FindCurrencyCodeByBCNUserIdPostgres,0,85,0,0,0,17,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.shared.utils,ClaimedFee,15,0,0,0,3,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.transfers.shared.utils,BCNAccountBalance,45,0,0,0,8,0,8,0,8,0
+BCN-WS,com.resoluttech.bcn.transfers.shared.utils,CurrencyExtensionKt,5,16,1,1,0,1,1,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.shared.utils,TransactionUtilsKt,61,42,0,0,11,12,2,2,2,2
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,AmountTooLargeException,44,12,0,0,9,3,4,2,4,2
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,TransferTransactionLimitValidator.UseCase.LoadMoney,22,0,0,0,1,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,Validations.validateTransferAmount.transferAmountLimitValidator.new Function0() {...},0,46,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,Validations.validateAccountLimit.accountLimitValidator.new Function0() {...},0,46,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,PeriodicTransactionLimitExceededException,23,0,0,0,6,0,5,0,5,0
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,TransferTransactionLimitValidator.UseCase.SendMoneyToBCNUser,0,31,0,0,0,1,0,4,0,4
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,Validations.validateReceiverBalance..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,TransferTransactionLimitValidator.UseCase.AccountToAccount,0,22,0,0,0,1,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,Validations..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,Validations.validateTransferAmount..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,MonetaryTransactionLimitExceededException,23,0,0,0,6,0,5,0,5,0
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,TransferTransactionLimitValidator.UseCase.SendMoneyToExternalUser,22,0,0,0,1,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,AmountTooLowException,44,12,0,0,9,3,4,2,4,2
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,TransferTransactionLimitValidatorImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,TransferTransactionLimitValidatorImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,TransferTransactionLimitValidatorImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,AmountLimitValidatorImpl,0,45,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,Validations,28,96,2,0,1,14,2,4,1,4
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,TransferTransactionLimitValidatorImpl,70,192,14,8,10,48,11,6,0,5
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,AmountLimitValidatorImpl.minAmount.new Function0() {...},0,4,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,AmountLimitValidatorImpl.maxAmount.new Function0() {...},0,4,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,Validations.validateReceiverBalance.receivingAccountLimitValidator.new Function0() {...},0,46,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,AmountLimitValidator.DefaultImpls,0,62,0,6,0,8,0,5,0,2
+BCN-WS,com.resoluttech.bcn.transfers.shared.validation,Validations.validateAccountLimit..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,FindRecentlyPaidRecipientsByUserIdPostgres,0,128,0,0,0,26,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.queries,FindRecentlyPaidRecipientsByUserId.Result,0,66,0,0,0,10,0,10,0,10
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.queries,FindBCNAccountById.Result,0,39,0,0,0,6,0,6,0,6
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,FindRecentlyPaidRecipientsByUserId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,FindBCNAccountByIdPostgres,0,45,0,0,0,7,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.queries,FindRecentlyPaidRecipientsByUserIdPostgres.implementation.new RecordMapper() {...},0,64,0,0,0,10,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,FindRecentlyPaidRecipientsByUserId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.new Function1() {...},0,199,0,0,0,40,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.queries,FindBCNAccountById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,24,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,FindBCNAccountByIdPostgres.implementation.new RecordMapper() {...},0,43,0,0,0,6,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.queries,FindBCNAccountById.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,UpdateLoadMoneyRecordByRecordId.Input,54,0,0,0,7,0,7,0,7,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,FindLoadMoneyRecordFromRecordId.Input,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,InsertValuesToLoadMoneyTable,3,0,0,0,2,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,InsertValuesToLoadMoneyTable.Input,81,0,0,0,11,0,11,0,11,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,UpdateLoadMoneyRecordStatusByRecordIdPostgres,77,0,2,0,9,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,UpdateLoadMoneyRecordStatusByRecordId,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,FindLoadMoneyRecordFromRecordId.Result,120,0,0,0,17,0,17,0,17,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,UpdateLoadMoneyRecordStatusByRecordIdPostgres.implementation.new RecordMapper() {...},17,0,0,0,2,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,UpdateLoadMoneyRecordByRecordId,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,UpdateLoadMoneyRecordStatusByRecordId.Result,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,UpdateLoadMoneyRecordStatusByRecordId.Input,39,0,0,0,4,0,5,0,5,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,FindLoadMoneyRecordFromRecordIdPostgres.implementation.new RecordMapper() {...},148,0,0,0,17,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,UpdateLoadMoneyRecordByRecordIdPostgres,82,0,2,0,14,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,InsertValuesToLoadMoneyTablePostgres,115,0,2,0,13,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,InsertValuesToLoadMoneyTable.Result,21,0,0,0,3,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,FindLoadMoneyRecordFromRecordId,3,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,InsertValuesToLoadMoneyTablePostgres.implementation.new RecordMapper() {...},19,0,0,0,3,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.queries,FindLoadMoneyRecordFromRecordIdPostgres,94,0,2,0,14,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,RequestSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,RequestSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,RequestSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,RequestSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,RequestSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,RequestSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,RequestSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,RequestSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl,933,0,10,0,143,0,15,0,10,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl.getResponse.new Function1() {...},187,0,0,0,51,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ResendSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ResendSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ResendSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ResendSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl.getScaledSHA256Async.2.new Function2() {...},94,0,2,0,12,0,2,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,RequestSignUpOTPRPCServerImpl.getResponse.new Function1() {...},0,10,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,RequestSignUpOTPRPCServerImpl.getResponse.new Function1() {...},0,21,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl.FetchedDataFromDB,48,0,0,0,6,0,6,0,6,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ResendSignUpOTPRPCServerImpl,17,250,3,11,1,43,3,10,0,6
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl.validateRequestParametersAndFetchDataFromDB.new Function1() {...},95,0,6,0,21,0,4,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl.validateDocumentIds.new Function1() {...},110,0,10,0,18,0,6,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitPasswordRPCServerImpl,40,319,3,15,4,44,3,10,0,4
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ConfirmSignUpOTPRPCServerImpl.getResponse.new Function1() {...},0,31,0,0,0,5,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,RequestSignUpOTPRPCServerImpl,12,385,4,16,1,70,4,14,0,8
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ConfirmSignUpOTPRPCServerImpl,5,493,1,21,0,56,1,14,0,4
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitPasswordRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitPasswordRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitPasswordRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitPasswordRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitPasswordRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitPasswordRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitPasswordRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitPasswordRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitPasswordRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl.getScaledSHA256Async.new Function2() {...},30,0,2,0,2,0,2,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitKYCDataRPCServerImpl.ImageDetail,98,0,12,0,12,0,11,0,5,0
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ConfirmSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ConfirmSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ConfirmSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ConfirmSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ConfirmSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ConfirmSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ConfirmSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ConfirmSignUpOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ConfirmSignUpOTPRPCServerImpl.getResponse.shadowLoginRecord.new Function1() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,ResendSignUpOTPRPCServerImpl.validateRequestParameters.new Function1() {...},0,35,0,4,0,5,0,3,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn.signUp,SubmitPasswordRPCServerImpl.getResponse.new Function1() {...},0,64,0,0,0,11,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,CreateAccountToAccountRequestRPCServerImpl.minimumConfirmationExpirySeconds.new Function0() {...},0,6,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,ConfirmAccountToAccountRequestRPCServerImpl.validateTotalAmount..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,ConfirmAccountToAccountRequestRPCServerImpl,90,416,5,21,8,85,6,19,1,11
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,ConfirmAccountToAccountRequestRPCServerImpl.validateTotalAmount.receivingAccountLimitValidator.new Function0() {...},0,50,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,CreateAccountToAccountRequestRPCServerImpl.getCreateAccountToAccountRequestRPCResponse.new Function1() {...},0,228,0,10,0,41,0,6,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,CreateAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,CreateAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,CreateAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,CreateAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,CreateAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,CreateAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,CreateAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,CreateAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,CreateAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,ConfirmAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,ConfirmAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,ConfirmAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,ConfirmAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,ConfirmAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,ConfirmAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,ConfirmAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,ConfirmAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,ConfirmAccountToAccountRequestRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,ConfirmAccountToAccountRequestRPCServerImpl.getResponse.new Function1() {...},60,290,14,14,8,62,12,3,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyAccountToAccount,CreateAccountToAccountRequestRPCServerImpl,37,388,4,20,7,73,4,14,0,6
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.shared,Currency,0,49,0,0,0,4,0,3,0,3
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.shared,CurrencyKt,5,16,1,1,0,1,1,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs,GetMPGSHostedCheckoutHTMLKt,0,32,0,0,0,5,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs,GetMPGSHostedCheckoutHTMLKt.getMPGSHostedCheckoutHTML.new Function3() {...},170,0,16,0,18,0,10,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs,GetMPGSHostedCheckoutHTMLKt.getMPGSHostedCheckoutHTML.1.loadMoneyRecord.new Function1() {...},32,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs,GetMPGSHTMLTemplateKt,43,0,0,0,7,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs,GetMPGSHostedCheckoutHTMLKt.getMPGSHostedCheckoutHTML..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.loadMoney.mpgs,GetMPGSHostedCheckoutHTMLKt.getMPGSHostedCheckoutHTML..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,GetTVPaymentDestinationsRPCServerImpl,130,0,0,0,57,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,GetTNMMobileBundleCategoriesRPCServerImpl,133,0,0,0,61,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,SavePhoneNumberDataRPCServerImpl,131,0,2,0,58,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,GetSavedElectricityMetersRPCServerImpl,282,0,0,0,110,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.payments,ServiceModuleKt.testServiceModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,GetPhonePaymentDestinationsRPCServerImpl,189,0,0,0,78,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,ServiceModuleKt.serviceModule.1.3.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RemoveSavedUtilityRPCServerImpl.execute.new Function0() {...},161,0,0,0,60,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RemoveSavedUtilityRPCServerImpl.execute.new Function0() {...},159,0,0,0,58,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,Mocks,0,19,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.payments,RemoveSavedUtilityRPCServerImpl.execute.new Function0() {...},73,0,0,0,21,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RemoveSavedUtilityRPCServerImpl.execute.new Function0() {...},65,0,0,0,15,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,GetSavedWaterMetersRPCServerImpl,507,0,0,0,198,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.payments,ServiceModuleKt.serviceModule.1.1.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,CreatePurchaseTNMPlanRequestRPCServerImpl,132,0,0,0,59,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,ApplicationKt,28,89,1,1,4,12,3,2,2,2
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,CreateTNMTopUpRequestRPCServerImpl,19,0,0,0,5,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,ApplicationKt.s2sAuthProvider.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,ServiceModuleKt.serviceModule.new Function1() {...},0,19,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,GetTNMMobileBundleSubCategoriesRPCServerImpl,161,0,2,0,72,0,3,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,ApplicationKt.module.new Function1() {...},0,20,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,ApplicationKt.module.new Function1() {...},4,12,1,1,1,3,1,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,ServiceModuleKt.serviceModule.1.2.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,CreateWaterPaymentRPCServerImpl,20,0,0,0,6,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,RemoveSavedUtilityRPCServerImpl,494,0,36,0,132,0,20,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,ValidateElectricityMeterDataRPCServerImpl,117,0,0,0,47,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,SetUtilityNicknameRPCServerImpl.execute.new Function0() {...},159,0,0,0,59,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,SetUtilityNicknameRPCServerImpl.execute.new Function0() {...},73,0,0,0,21,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,SetUtilityNicknameRPCServerImpl.execute.new Function0() {...},159,0,0,0,58,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,SetUtilityNicknameRPCServerImpl.execute.new Function0() {...},161,0,0,0,60,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,SetUtilityNicknameRPCServerImpl,469,0,36,0,113,0,20,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,ApplicationKt.versionCheckerModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,ServiceModuleKt,0,21,0,0,0,2,0,3,0,3
+BCN-WS,com.resoluttech.bcn.payments,LookupDstvSmartCardRPCServerImpl,11,0,0,0,3,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,ValidateWaterMeterDataRPCServerImpl,117,0,0,0,47,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,GetCurrentDstvBillRPCServerImpl,25,0,0,0,8,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,ApplicationKt.module.2..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,ApplicationKt.versionCheckerModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt.routesModule.new Function1() {...},0,139,0,0,0,28,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,ApplicationKt.commonModule.1.new Function2() {...},0,13,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,ApplicationKt.commonModule.1.new Function2() {...},0,8,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,ApplicationKt.s2sAuthProvider.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,ApplicationKt.commonModule.1.1.new Function1() {...},0,4,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,GetDstvPlansListRPCServerImpl,153,0,0,0,62,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,SaveDstvSmartCardRPCServerImpl,111,0,0,0,49,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,GetTNMMobilePlansRPCServerImpl,244,0,4,0,98,0,5,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,ConfirmTNMRequestRPCServerImpl,148,0,0,0,61,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,ApplicationKt.commonModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,GetPaymentsDataRPCServerImpl,1719,0,0,0,611,0,19,0,19,0
+BCN-WS,com.resoluttech.bcn.payments,ConfirmElectricityPaymentRPCServerImpl,152,0,0,0,57,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,CreateDstvPaymentRequestRPCServerImpl,34,0,0,0,8,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,ConfirmDstvPaymentRPCServerImpl,0,146,0,0,0,57,0,2,0,2
+BCN-WS,com.resoluttech.bcn.payments,ServiceModuleKt.serviceModule.1.new Function2() {...},21,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,ServiceModuleKt.serviceModule.1.new Function2() {...},63,0,0,0,11,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,ServiceModuleKt.serviceModule.1.new Function2() {...},21,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,ConfirmWaterPaymentRPCServerImpl,151,0,0,0,55,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,GetTVPaymentDestinationsRPCServerImpl.execute.new Function0() {...},65,0,0,0,15,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.payments,CreateElectricityPaymentRPCServerImpl,20,0,0,0,6,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.payments,ApplicationKt.module.2.new Function3() {...},10,45,4,3,0,5,4,1,0,1
+BCN-WS,com.resoluttech.bcn.payments,RoutesModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.payments,CheckDstvUserHoldsBoxOfficeProductRPCServerImpl,11,0,0,0,4,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,CreateSendMoneyToExternalUserRequestRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,CreateSendMoneyToExternalUserRequestRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,CreateSendMoneyToExternalUserRequestRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,CreateSendMoneyToExternalUserRequestRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,CreateSendMoneyToExternalUserRequestRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,CreateSendMoneyToExternalUserRequestRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,CreateSendMoneyToExternalUserRequestRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,CreateSendMoneyToExternalUserRequestRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,LookupRecipientAtCounterpartyRPCServerImpl.getResponse.counterpartyConfigObject.new Function1() {...},88,0,8,0,7,0,5,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl.getResponse.new Function1() {...},92,0,3,0,23,0,3,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl.validateSendMoneyExternalToBCN.new Function1() {...},55,0,6,0,10,0,4,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,CounterpartyClientIdentifier,27,0,0,0,2,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl.transferMoneyFromHoldingAccountsToUser.new Function1() {...},191,0,0,0,63,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,CreateSendMoneyToExternalUserRequestRPCServerImpl.getResponse.new Function1() {...},165,0,2,0,36,0,2,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl.validateAndInitializeSendMoneyToExternalUser.counterpartyDetails.new Function1() {...},36,0,2,0,5,0,2,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,GetSendMoneyToExternalUserCounterpartyRPCServerImpl,6,126,1,4,1,29,1,6,0,4
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,CreateSendMoneyToExternalUserRequestRPCServerImpl,366,0,22,0,48,0,15,0,4,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl.transferMoneyFromUserToHoldingAccounts.new Function1() {...},155,0,0,0,39,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,LookupRecipientAtCounterpartyRPCServerImpl,259,0,6,0,49,0,7,0,4,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,SendMoneyToExternalUser,63,0,0,0,8,0,8,0,8,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl.validateAndGetSuccessResponse.new Function1() {...},112,0,7,0,21,0,5,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl,1062,0,26,0,209,0,29,0,16,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,GetSendMoneyToExternalUserCounterpartyRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,GetSendMoneyToExternalUserCounterpartyRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,GetSendMoneyToExternalUserCounterpartyRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,ConfirmSendMoneyToExternalUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,LookupRecipientAtCounterpartyRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,LookupRecipientAtCounterpartyRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,LookupRecipientAtCounterpartyRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,LookupRecipientAtCounterpartyRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyToExternalCounterparty,GetSendMoneyToExternalUserCounterpartyRPCServerImpl.execute.result.new Function1() {...},0,17,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,RefreshSltRPCServerImpl,103,0,4,0,17,0,5,0,3,0
+BCN-WS,com.resoluttech.bcn.signUpIn,Mocks,4,39,0,0,0,7,2,5,2,5
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.6.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.2.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.s2sAuthProvider.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.module.2..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.testServiceModule.new Function1() {...},0,34,0,0,0,7,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,RefreshSltRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt,28,117,1,1,4,14,3,2,2,2
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.cryptoModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.testServiceModule.1.new Function2() {...},10,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.testServiceModule.1.new Function2() {...},10,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.testServiceModule.1.new Function2() {...},10,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.new Function1() {...},0,39,0,0,0,8,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.commonModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.7.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.5.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.commonModule.1.new Function2() {...},0,13,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.commonModule.1.new Function2() {...},0,8,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.1.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.module.2.new Function3() {...},10,45,4,3,0,5,4,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.versionCheckerModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.versionCheckerModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.cryptoModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.4.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.s2sAuthProvider.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.utilsModule.new Function1() {...},0,19,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt,0,21,0,0,0,2,0,3,0,3
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.3.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.utilsModule.1.new Function2() {...},10,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,RoutesModuleKt.routesModule.new Function1() {...},0,54,0,0,0,11,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.new Function2() {...},21,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.new Function2() {...},21,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.new Function2() {...},19,0,0,0,3,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.new Function2() {...},21,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.new Function2() {...},63,0,0,0,11,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.new Function2() {...},21,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,ServiceModuleKt.serviceModule.1.new Function2() {...},21,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.signUpIn,RoutesModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.commonModule.1.1.new Function1() {...},0,4,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.module.new Function1() {...},4,12,1,1,1,3,1,1,0,1
+BCN-WS,com.resoluttech.bcn.signUpIn,ApplicationKt.module.new Function1() {...},0,20,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromUserIdRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromUserIdRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromUserIdRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromUserIdRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromUserIdRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromPhoneNumberRPCServerImpl.getResponse.new Function1() {...},0,82,0,4,0,15,0,3,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromUserIdRPCServerImpl,13,299,4,14,1,42,4,10,0,5
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,ConfirmSendMoneyToBcnUserRPCServerImpl.getResponse.new Function1() {...},30,328,7,17,3,47,7,6,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromAccountIdRPCServerImpl,13,255,4,8,1,37,4,7,0,5
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,RecipientInfo,0,39,0,0,0,5,0,5,0,5
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,ConfirmSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,ConfirmSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,ConfirmSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,ConfirmSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,ConfirmSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,ConfirmSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,ConfirmSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,ConfirmSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,ConfirmSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,RecipientIdentifierType,0,49,0,0,0,4,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,ConfirmSendMoneyToBcnUserRPCServerImpl,54,364,5,17,9,78,5,17,1,10
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl.getResponse.new Function1() {...},0,102,0,0,0,27,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromUserIdRPCServerImpl.getResponse.new Function1() {...},0,68,0,2,0,12,0,2,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromAccountIdRPCServerImpl.getResponse.new Function1() {...},0,63,0,4,0,13,0,3,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromPhoneNumberRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromPhoneNumberRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromPhoneNumberRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromPhoneNumberRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromPhoneNumberRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,ConfirmSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromAccountIdRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromAccountIdRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromAccountIdRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromAccountIdRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromAccountIdRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,GetBCNRecipientFromPhoneNumberRPCServerImpl,13,287,4,12,1,40,4,9,0,5
+BCN-WS,com.resoluttech.bcn.transfers.sendMoneyWithinBcn,CreateSendMoneyToBcnUserRPCServerImpl,126,614,10,48,19,119,10,30,0,11
+BCN-WS,com.resoluttech.bcn.transactions,LoadMoneyFromMPGSTransfers,45,372,8,30,5,111,9,23,1,11
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyAccountToAccountTransaction,10,441,3,23,1,81,3,20,0,10
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyWithinBCNTransaction,14,562,6,36,0,99,6,28,0,13
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.module.2..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ServiceModuleKt.serviceModule.1.2.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transactions,LoadMoneyFromExternalIncomingTransfers,21,155,3,5,3,43,3,3,0,2
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl.execute.new Function1() {...},44,690,11,43,6,100,11,17,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ServiceModuleKt.testServiceModule.new Function1() {...},0,19,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.commonModule.1.1.new Function1() {...},0,4,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,LocalizedImageValue,11,15,0,0,0,3,1,3,1,3
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyExternalToBCNTransaction,113,352,13,24,8,100,13,16,0,9
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.utilsModule.new Function1() {...},0,54,0,0,0,11,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,LoadMoneyFromMPGSTransfers..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,LoadMoneyFromMPGSTransfers..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,LoadMoneyFromMPGSTransfers..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.module.2.new Function3() {...},10,45,4,3,0,5,4,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,Mocks,0,19,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transactions,LocalizedStrings..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,RoutesModuleKt.routesModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.s2sAuthProvider.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.commonModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyAccountToAccountTransaction..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyAccountToAccountTransaction..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyAccountToAccountTransaction..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyAccountToAccountTransaction..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyAccountToAccountTransaction..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,LoadMoneyFromExternalIncomingTransfers..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,LoadMoneyFromExternalIncomingTransfers..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.s2sAuthProvider.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transactions,RoutesModuleKt.routesModule.1.new Function2() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.versionCheckerModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.utilsModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ServiceModuleKt.serviceModule.1.3.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transactions,UserDetails,0,33,0,0,0,5,0,5,0,5
+BCN-WS,com.resoluttech.bcn.transactions,RoutesModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt,28,103,1,1,4,13,3,2,2,2
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ServiceModuleKt.serviceModule.new Function1() {...},0,19,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.commonModule.1.new Function2() {...},0,8,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.commonModule.1.new Function2() {...},0,13,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,LocalizedStrings,11,53,0,0,1,3,1,2,1,2
+BCN-WS,com.resoluttech.bcn.transactions,ServiceModuleKt,0,21,0,0,0,2,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyExternalToBCNTransaction..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyExternalToBCNTransaction..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyExternalToBCNTransaction..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,RemarkKt,13,31,1,3,1,4,1,3,0,2
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.module.new Function1() {...},4,12,1,1,1,3,1,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.module.new Function1() {...},0,20,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,LocalizedImageToRemoteBitmapImageMap,0,39,0,0,0,5,0,5,0,5
+BCN-WS,com.resoluttech.bcn.transactions,ServiceModuleKt.serviceModule.1.1.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,GetTransactionsRPCServerImpl,0,122,0,2,0,29,0,5,0,4
+BCN-WS,com.resoluttech.bcn.transactions,LocalizedStrings.Locale,0,38,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyWithinBCNTransaction..special..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyWithinBCNTransaction..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyWithinBCNTransaction..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,SendMoneyWithinBCNTransaction.baseUrl.new Function0() {...},6,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transactions,ThemedImageValue,11,15,0,0,0,3,1,3,1,3
+BCN-WS,com.resoluttech.bcn.transactions,ApplicationKt.versionCheckerModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions,ServiceModuleKt.serviceModule.1.new Function2() {...},21,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transactions,ServiceModuleKt.serviceModule.1.new Function2() {...},21,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transactions,ServiceModuleKt.serviceModule.1.new Function2() {...},63,0,0,0,11,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.getResponse.new Function1() {...},30,444,4,10,0,80,4,4,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,CurrencySerializer,0,42,0,0,0,7,0,4,0,4
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientAPIRequest,12,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionAPIResponse..serializer,25,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,PhoneNumberSerializer,0,44,0,0,0,7,0,4,0,4
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientAPIResponse..serializer,25,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,URLSerializer,29,12,0,0,5,2,2,2,2,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyAPIResponse,58,155,3,1,10,2,14,2,12,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientRouteKt.lookUpBCNRecipientRoute.new Function3() {...},361,0,21,0,28,0,15,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,FeeSplitInfo,0,15,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionRouteKt.queryTransactionRoute.new Function3() {...},307,0,19,0,28,0,13,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionRouteKt.getResponse.new Function1() {...},150,0,4,0,23,0,3,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.validateSessionTokenAndGetCounterpartyInfo.counterpartyInfoAndTokenInfo.new Function1() {...},0,58,1,7,0,12,1,4,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientAPIResponse,18,0,0,0,3,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionAPIRequest..serializer,21,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt,54,549,14,34,6,72,12,22,0,9
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientRouteKt.getResponse.new Function1() {...},109,0,6,0,13,0,4,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransactionResultStatusSerializer,30,0,0,0,4,0,4,0,4,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientRouteKt,23,62,0,0,2,9,1,1,1,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyAPIResponse..serializer,0,61,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionAPIRequest,41,0,4,0,5,0,4,0,2,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyAPIRequest,117,88,11,1,5,7,8,8,2,8
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientAPIRequest..serializer,21,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute.new Function3() {...},165,497,20,10,6,41,20,4,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyRouteKt.transferMoneyRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionRouteKt,16,62,0,0,1,9,1,1,1,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionRouteKt.queryTransactionRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionRouteKt.queryTransactionRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionRouteKt.queryTransactionRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionRouteKt.queryTransactionRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionRouteKt.queryTransactionRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionRouteKt.queryTransactionRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionRouteKt.queryTransactionRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransferMoneyAPIRequest..serializer,0,45,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientRouteKt.lookUpBCNRecipientRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientRouteKt.lookUpBCNRecipientRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientRouteKt.lookUpBCNRecipientRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientRouteKt.lookUpBCNRecipientRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientRouteKt.lookUpBCNRecipientRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientRouteKt.lookUpBCNRecipientRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,LookUpBCNRecipientRouteKt.lookUpBCNRecipientRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,QueryTransactionAPIResponse,67,0,4,0,3,0,7,0,5,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.transferMoney,TransactionResultStatus,38,0,0,0,3,0,3,0,3,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,GetSessionTokenAPIResponse,6,15,0,0,2,1,2,1,2,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,GetSessionTokenAPIResponse..serializer,0,25,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,GetSessionTokenAPIRequest,72,6,8,0,5,2,5,2,1,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,InvalidateSessionTokenRouteKt,0,34,0,0,0,5,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,GetSessionTokenAPIRequest..serializer,0,25,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,InvalidateSessionTokenRouteKt.invalidateSessionTokenRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,InvalidateSessionTokenRouteKt.invalidateSessionTokenRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,InvalidateSessionTokenRouteKt.invalidateSessionTokenRoute..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,GetSessionTokenRouteKt.getSessionTokenRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,GetSessionTokenRouteKt.getSessionTokenRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,GetSessionTokenRouteKt.getSessionTokenRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,GetSessionTokenRouteKt.getSessionTokenRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,GetSessionTokenRouteKt.getSessionTokenRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,GetSessionTokenRouteKt.getSessionTokenRoute..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,GetSessionTokenRouteKt,0,132,0,2,0,18,0,4,0,3
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,InvalidateSessionTokenRouteKt.invalidateSessionTokenRoute.new Function3() {...},187,0,21,0,13,0,13,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,GetSessionTokenRouteKt.getSessionTokenRoute.new Function3() {...},48,230,8,9,2,23,8,4,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,GetSessionTokenRouteKt.getResponse.new Function1() {...},0,54,0,0,0,17,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,InstantSerializer,0,68,1,1,0,9,1,4,0,4
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.sessionToken,InvalidateSessionTokenRouteKt.invalidateSessionTokenRoute.1.new Function1() {...},27,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ServiceVersion,127,0,12,0,7,0,12,0,6,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,RoutesKt.routes.1.new Function1() {...},0,14,0,0,0,6,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.cryptoModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.versionCheckerModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.redisModule.1.new Function2() {...},14,54,1,1,2,9,1,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.utilsModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.commonModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.module.new Function1() {...},4,12,1,1,1,3,1,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.module.new Function1() {...},0,20,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,RoutesKt.routes.new Function1() {...},0,11,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.module.3.new Function3() {...},10,45,4,3,0,5,4,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ServiceVersion..serializer,25,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.cryptoModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures..inlined.inject.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.versionCheckerModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.4.new Function1() {...},0,64,0,0,0,7,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.4.new Function3() {...},35,0,3,0,3,0,3,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt,28,113,1,1,4,15,3,2,2,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.utilsModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.commonModule.1.new Function2() {...},0,8,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.commonModule.1.new Function2() {...},13,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.commonModule.1.1.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.4.2.new Function3() {...},14,42,2,1,0,4,2,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.4.2.new Function3() {...},14,42,2,1,0,4,2,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.4.2.new Function3() {...},56,0,3,0,4,0,3,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.4.2.new Function3() {...},14,42,2,1,0,4,2,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.4.2.new Function3() {...},77,0,5,0,7,0,4,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.4.2.new Function3() {...},12,40,2,1,0,4,2,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt,79,126,5,3,7,18,4,2,0,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.1.new Function1() {...},0,11,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.1.new Function1() {...},0,7,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,RoutesKt,0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.redisModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,ApplicationKt.module.3..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.2.new Function1() {...},0,7,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.2.new Function1() {...},0,7,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.2.new Function1() {...},2,11,1,1,0,1,1,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.2.new Function1() {...},0,7,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.2.new Function1() {...},5,19,2,2,1,4,2,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.2.new Function1() {...},0,7,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.2.new Function1() {...},0,6,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.new Function1() {...},0,12,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.new Function1() {...},0,57,0,0,0,9,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers,InstallStandardFeaturesKt.installStandardFeatures.new Function1() {...},0,22,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries.derivedFeatureTables,SendMoneyAccountToAccountFeatureKt,0,26,0,0,0,6,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries.derivedFeatureTables,SendMoneyWithinBCNFeatureKt,0,29,0,0,0,6,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries.derivedFeatureTables,LoadMoneyFromExternalIncomingTransfersFeatureKt,0,62,0,0,0,13,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries.derivedFeatureTables,LoadMoneyFromMPGSFeatureKt,0,78,0,0,0,13,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transactions.queries.derivedFeatureTables,SendMoneyExternalToBCNFeatureKt,0,81,0,0,0,16,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ApplicationKt.utilsModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ResendOTPRPCServerImpl.execute.result.new Function1() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,RoutesModuleKt.routesModule.new Function1() {...},0,19,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ServiceModuleKt,0,21,0,0,0,2,0,3,0,3
+BCN-WS,com.resoluttech.bcn.otp,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,RoutesModuleKt.routesModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ApplicationKt.s2sValidation.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ApplicationKt.commonModule.1.1.new Function1() {...},0,4,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,OTPUtilsKt,594,383,58,18,63,42,38,9,0,9
+BCN-WS,com.resoluttech.bcn.otp,OTPUtils..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,OTPUtils..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,OTPUtils..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,OTPUtils..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,OTPUtils..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ValidateOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ValidateOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ValidateOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ValidateOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,Resources,2,35,1,1,0,2,1,2,0,2
+BCN-WS,com.resoluttech.bcn.otp,SendOTPRPCServerImpl,6,601,6,28,1,58,6,18,0,7
+BCN-WS,com.resoluttech.bcn.otp,ApplicationKt,30,84,1,1,4,11,4,2,3,2
+BCN-WS,com.resoluttech.bcn.otp,ApplicationKt.module.new Function1() {...},4,12,1,1,1,3,1,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ValidateOTPRPCServerImpl.updateOTPRecord.new Function1() {...},0,23,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,SendOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,SendOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,SendOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,SendOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,OTPUtils,22,222,5,11,0,37,5,8,0,5
+BCN-WS,com.resoluttech.bcn.otp,ResendOTPRPCServerImpl,37,669,4,26,3,97,4,16,0,5
+BCN-WS,com.resoluttech.bcn.otp,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ApplicationKt.commonModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ServiceModuleKt.serviceModule.1.3.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.otp,RoutesModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.otp,ValidateOTPRPCServerImpl.execute.result.new Function1() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,RenderedEmailTemplate,0,27,0,0,0,4,0,4,0,4
+BCN-WS,com.resoluttech.bcn.otp,Mocks,0,19,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.otp,ServiceModuleKt.serviceModule.1.2.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.otp,OTPUtils.checkRateLimitExceeded.totalCount.new Function1() {...},0,25,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ServiceModuleKt.serviceModule.1.new Function2() {...},21,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.otp,ServiceModuleKt.serviceModule.1.new Function2() {...},21,0,0,0,4,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.otp,ServiceModuleKt.serviceModule.1.new Function2() {...},63,0,0,0,11,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.otp,ServiceModuleKt.serviceModule.new Function1() {...},0,19,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ApplicationKt.commonModule.1.new Function2() {...},0,8,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ApplicationKt.commonModule.1.new Function2() {...},0,13,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,SendOTPRPCServerImpl.executeInsertOTPRecord.new Function1() {...},0,49,0,4,0,3,0,3,0,1
+BCN-WS,com.resoluttech.bcn.otp,OTPData,0,63,0,0,0,8,0,8,0,8
+BCN-WS,com.resoluttech.bcn.otp,ResendOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ResendOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ResendOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ResendOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ResendOTPRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ApplicationKt.s2sValidation.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ApplicationKt.s2sValidation.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.otp,ServiceModuleKt.serviceModule.1.1.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.otp,ValidateOTPRPCServerImpl,2,276,0,8,1,25,0,8,0,4
+BCN-WS,com.resoluttech.bcn.otp,ServiceModuleKt.testServiceModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.otp,ResendOTPRPCServerImpl.updateOTPRecord.new Function1() {...},0,29,0,0,0,12,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindDefaultBCNAccountByUserIdPostgres.implementation.new RecordMapper() {...},0,21,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindActiveHomeLayout.Result,6,18,0,0,2,2,2,2,2,2
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindLocalizedTextById.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindUserAndAccountsByUserId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindLocalizedTextById.Result,3,30,0,0,1,4,1,4,1,4
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindThemedColorById.Result,0,21,0,0,0,4,0,4,0,4
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindLocalizedTextById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindThemedColorById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindActiveHomeLayoutPostgres,0,56,0,0,0,9,0,2,0,2
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindDefaultBCNAccountByUserId.Result,0,21,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindActiveHomeLayout,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindLocalizedTextByIdPostgres.implementation.new RecordMapper() {...},0,35,0,0,0,5,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindActiveHomeLayoutPostgres.implementation.new RecordMapper() {...},0,30,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindLocalizedTextByIdPostgres,0,42,0,0,0,9,0,2,0,2
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindDefaultBCNAccountByUserId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindUserAndAccountsByUserId.Result,51,123,0,0,2,17,3,17,3,17
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindSectionItemById,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,24,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindThemedColorByIdPostgres.implementation.new RecordMapper() {...},0,27,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindDefaultBCNAccountByUserId.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindSectionItemById.Result,76,96,0,0,7,10,8,10,8,10
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,DatabaseModuleKt.databaseModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindSectionItemByIdPostgres.implementation.new RecordMapper() {...},0,117,0,0,0,17,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,DatabaseModuleKt.databaseModule.new Function1() {...},0,59,0,0,0,12,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindSectionItemById.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindUserAndAccountsByUserIdPostgres,0,106,0,0,0,19,0,2,0,2
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindSectionItemByIdPostgres,0,98,0,0,0,28,0,2,0,2
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindUserAndAccountsByUserIdPostgres.implementation.new RecordMapper() {...},0,127,0,0,0,19,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindDefaultBCNAccountByUserIdPostgres,0,35,0,0,0,7,0,2,0,2
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindThemedColorByIdPostgres,0,39,0,0,0,9,0,2,0,2
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindActiveHomeLayout.Input,0,9,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindUserAndAccountsByUserId,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,FindThemedColorById.Input,0,12,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.homeScreen.queries,DatabaseModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.remarks.queries,FindTransactionAllowsPrivateRemark.Input,0,21,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transfers.remarks.queries,UpdatePrivateRemarkPostgres,0,34,0,0,0,8,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.remarks.queries,UpdatePrivateRemark.Result,0,9,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.remarks.queries,FindTransactionAllowsPrivateRemark,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.remarks.queries,FindTransactionAllowsPrivateRemarkPostgres.implementation.new RecordMapper() {...},0,16,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers.remarks.queries,FindTransactionAllowsPrivateRemarkPostgres,0,52,0,0,0,10,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.remarks.queries,FindTransactionAllowsPrivateRemark.Result,0,9,0,0,0,2,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers.remarks.queries,UpdatePrivateRemark.Input,0,21,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transfers.remarks.queries,UpdatePrivateRemark,0,3,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,GetCashOutRequestsRPCServerImpl,269,0,0,0,61,0,9,0,9,0
+BCN-WS,com.resoluttech.bcn.transfers,FindPointsOfInterestWithinBoundsRPCServerImpl,149,0,3,0,47,0,12,0,10,0
+BCN-WS,com.resoluttech.bcn.transfers,GetRecentlyPaidRecipientsRPCServerImpl,13,267,4,8,1,29,4,4,0,2
+BCN-WS,com.resoluttech.bcn.transfers,ConfirmLoadMoneyFromBankAccountRPCServerImpl,33,0,0,0,15,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.utilsModule.new Function1() {...},0,39,0,0,0,8,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ServiceModuleKt.serviceModule.new Function1() {...},0,19,0,0,0,4,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,CreateLoadMoneyTransactionRPCServerImpl,31,0,0,0,8,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,ConfirmCashOutRequestRPCServerImpl,44,0,0,0,16,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.versionCheckerModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,CreateCashOutRequestRPCServerImpl,37,0,0,0,13,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,CashTransferRequestCancellationRPCServerImpl,8,0,0,0,3,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,MPGSRoutesKt.mpgsRoutes.new Function1() {...},0,11,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ServiceModuleKt.serviceModule.1.3.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ServiceModuleKt.serviceModule.1.3.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.s2sAuthProvider.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,GetRecurringTransfersListRPCServerImpl,205,0,0,0,52,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,ConfirmCardlessWithdrawalRequestRPCServerImpl,44,0,0,0,16,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,MPGSRoutesKt,0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,GetTransfersInstantiatedFromRecurrenceRPCServerImpl,95,0,0,0,17,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,GetPointsOfInterestRPCServerImpl,166,0,3,0,53,0,13,0,11,0
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.commonModule.1.new Function2() {...},0,8,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.commonModule.1.new Function2() {...},0,13,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.commonModule.1.1.new Function1() {...},0,4,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.fdhModule.new Function1() {...},0,24,0,0,0,5,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,CreateCashInRequestRPCServerImpl,37,0,0,0,13,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,GetRecentlyPaidRecipientsRPCServerImpl.execute.remoteBitMapImageResult.new Function1() {...},0,15,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.s2sAuthProvider.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.utilsModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.utilsModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.utilsModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.utilsModule.1.new Function2() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.utilsModule.1.new Function2() {...},0,17,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt,28,122,1,1,4,16,3,2,2,2
+BCN-WS,com.resoluttech.bcn.transfers,GetLoadMoneyRecentSourcesRPCServerImpl,49,0,0,0,16,0,5,0,5,0
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.module.2..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,LinkBankAccountRPCServerImpl,8,0,0,0,2,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,GetCashInRequestsRPCServerImpl,263,0,0,0,62,0,9,0,9,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.new Function1() {...},0,189,0,0,0,38,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.module.new Function1() {...},0,20,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.module.new Function1() {...},4,12,1,1,1,3,1,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.versionCheckerModule.new Function1() {...},0,9,0,0,0,2,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ConfirmCashInRequestRPCServerImpl,44,0,0,0,15,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},0,16,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},16,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},16,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},16,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,CreateRecurringTransferRPCServerImpl,16,0,0,0,6,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,CreateCardlessWithdrawalRequestRPCServerImpl,37,0,0,0,13,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt,0,11,0,0,0,1,0,2,0,2
+BCN-WS,com.resoluttech.bcn.transfers,GetRecentlyPaidRecipientsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,GetRecentlyPaidRecipientsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,GetRecentlyPaidRecipientsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,GetRecentlyPaidRecipientsRPCServerImpl..special..inlined.inject.new Function0() {...},0,11,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,GetLoadMoneyBankSourceRPCServerImpl,72,0,0,0,19,0,7,0,7,0
+BCN-WS,com.resoluttech.bcn.transfers,Mocks,0,19,0,0,0,3,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},16,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},16,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,RoutesModuleKt.routesModule.1.new Function2() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ServiceModuleKt.serviceModule.1.2.new Function0() {...},11,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ServiceModuleKt.serviceModule.1.2.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ServiceModuleKt,0,21,0,0,0,2,0,3,0,3
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.fdhModule.1.new Function2() {...},10,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.fdhModule.1.new Function2() {...},10,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.fdhModule.1.new Function2() {...},104,0,4,0,19,0,3,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.fdhModule.1.new Function2() {...},10,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ServiceModuleKt.testServiceModule.1.new Function2() {...},0,10,0,0,0,1,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.commonModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,GetRecentlyPaidRecipientsRPCServerImpl.execute.result.new Function1() {...},0,17,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,CancelRecurringTransferRPCServerImpl,8,0,0,0,3,0,2,0,2,0
+BCN-WS,com.resoluttech.bcn.transfers,GetCardlessWithdrawalRequestsRPCServerImpl,265,0,0,0,61,0,9,0,9,0
+BCN-WS,com.resoluttech.bcn.transfers,ServiceModuleKt.testServiceModule.new Function1() {...},0,14,0,0,0,3,0,1,0,1
+BCN-WS,com.resoluttech.bcn.transfers,ServiceModuleKt.serviceModule.1.1.new Function1() {...},4,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ServiceModuleKt.serviceModule.1.new Function2() {...},58,0,0,0,10,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ServiceModuleKt.serviceModule.1.new Function2() {...},31,0,0,0,5,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ServiceModuleKt.serviceModule.1.new Function2() {...},31,0,0,0,5,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.transfers,ApplicationKt.module.2.new Function3() {...},10,45,4,3,0,5,4,1,0,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,SourceSystemTransactionIdAlreadyCompleted,15,8,0,0,7,2,3,2,3,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,ReceivingAccountWouldCrossLimitException,23,0,0,0,9,0,5,0,5,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,AmountTooLowException,15,8,0,0,7,2,3,2,3,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,UnsupportedClientException,23,0,0,0,9,0,5,0,5,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,PeriodicTransactionLimitExceededException,14,9,0,0,7,2,3,2,3,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,UserDoesNotSupportCurrencyException,23,0,0,0,9,0,5,0,5,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,MonetaryTransactionLimitExceededException,14,9,0,0,4,2,3,2,3,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,RecipientDoesNotAcceptCurrencyException,15,8,0,0,7,2,3,2,3,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,ErrorCodes,7,0,0,0,1,0,1,0,1,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,TooManyRequestsException,14,9,0,0,7,2,3,2,3,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,InvalidCurrencyException,19,4,0,0,8,1,4,1,4,1
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,SourceSystemTransactionIdNotUnique,15,8,0,0,7,2,3,2,3,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,IncorrectCredentialsException,14,9,0,0,7,2,3,2,3,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,ServerException,99,0,0,0,17,0,11,0,11,0
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,AmountTooLargeException,15,8,0,0,7,2,3,2,3,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,InvalidSessionTokenException,15,8,0,0,7,2,3,2,3,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,RemarksTooLargeException,15,8,0,0,7,2,3,2,3,2
+BCN-WS,com.resoluttech.bcn.externalIncomingTransfers.exceptions,InvalidRequestException,14,9,0,0,7,2,3,2,3,2
+BCN-WS,Deepa,J,1,1,1,1,1,1,1,1,1,1
+BCN-WS,Rahuls,J,1,1,1,1,1,1,1,1,1,1
+BCN-WS,Rahuls,J,1,1,1,1,1,1,1,1,1,1
