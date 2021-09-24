@@ -1,7 +1,5 @@
 name: Build Distribution
 on: [push]
-    branches:
-      - master
 jobs:
   build-distribution:
     runs-on: ubuntu-latest
@@ -10,4 +8,4 @@ jobs:
       - name: Build node js module
         uses: gps/ncc-gha@master
         with:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: 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
