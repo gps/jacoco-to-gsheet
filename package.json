@@ -1,0 +1,21 @@
+{
+  "name": "jacoco-to-gsheet",
+  "version": "1.0.0",
+  "description": "Updates a google sheet with the contents of a jacoco code coverage report",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/surya-soft/jacoco-to-gsheet"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/surya-soft/jacoco-to-gsheet"
+  },
+  "homepage": "https://github.com/surya-soft/jacoco-to-gsheet",
+  "dependencies": {
+    "@actions/core": "^1.5.0",
+    "@actions/github": "^5.0.0"
+  }
+}

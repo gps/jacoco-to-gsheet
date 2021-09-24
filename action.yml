@@ -1,0 +1,16 @@
+name: jacoco-to-gsheet
+description: 'Action description' # description of the action
+inputs:
+  input-1:  # id of input. Github recommendeds using lowercase input ids.
+    description: 'Name of person'   # Description needed for input-1
+    required: false   # optional input
+    default: 'David Beckham' # default value needed for input-1
+  input-2:  # id of input
+    description: 'Provide additional message'
+    required: true
+outputs: # Output section is an optional parameter.
+  time: # id of output
+    description: 'The time when this action was performed'
+runs:
+  using: node12
+  main: 'dist/index.js'
