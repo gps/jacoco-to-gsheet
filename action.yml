@@ -5,7 +5,7 @@ inputs:
     description: The id(alphanumeric value that is between the /d/ and the /edit in the URL of your spreadsheet) of the spreadsheet that needs to be updated. 
     required: true
   JACOCO_CSV_PATH:
-    description: Path to the jacoco csv report.
+    description: Path to the jacoco CSV report.
     required: true
   SPREADSHEET_NAME:
     description: Name of the spreadsheet where the report will be stored.
@@ -16,9 +16,6 @@ inputs:
   API_CLIENT_EMAIL:
     description: Email that will be used to edit the Google sheets API.
     required: true
-outputs:
-  SPREADSHEETSHEET_LINK:
-    description: Link for the updated google sheet
 runs:
   using: node12
   main: dist/index.js

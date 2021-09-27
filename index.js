@@ -73,7 +73,7 @@ async function updateGoogleSpreadSheet(auth, spreadsheetId, sheetName, googleShe
     },
     valueInputOption: "USER_ENTERED"
   });
-  core.setOutput("SPREADSHEETSHEET_LINK", "https://docs.google.com/spreadsheets/d/" + spreadsheetId)
+  console.log("SpreadSheet link : https://docs.google.com/spreadsheets/d/" + spreadsheetId)
 }
 
 function getRefactorCSVCodeCoverageData(codeCoverageData) {
