@@ -9,7 +9,7 @@ async function run() {
   const apiClientEmail = core.getInput("API_CLIENT_EMAIL");
   const privateKey = core.getInput("API_PRIVATE_KEY");
   const codeCoverageData = fs.readFileSync(path).toString().split('\n').map(e => e.trim()).map(e => e.split(',').map(e => e.trim()));
-  var refactoredCodeCoverageData = getRefactorCSVCodeCoverageData(codeCoverageData);
+  var refactoredCodeCoverageData = getRefactoredCSVCodeCoverageData(codeCoverageData);
   const auth = new google.auth.JWT(
     apiClientEmail,
     null,
@@ -17,17 +17,13 @@ async function run() {
     ['https://www.googleapis.com/auth/spreadsheets']
   )
   const googleSheetsInstance = google.sheets({ version: "v4", auth: auth });
-  try {
-    const readData = await googleSheetsInstance.spreadsheets.values.get({
-      auth,
-      spreadsheetId,
-      range: sheetName,
-    })
-    const googleSheetData = generateGoogleSheetData(readData, refactoredCodeCoverageData)
-    updateGoogleSpreadSheet(auth, spreadsheetId, sheetName, googleSheetData, googleSheetsInstance)
-  } catch (e) {
-    console.error(e)
-  }
+  const readData = await googleSheetsInstance.spreadsheets.values.get({
+    auth,
+    spreadsheetId,
+    range: sheetName,
+  })
+  const googleSheetData = generateGoogleSheetData(readData, refactoredCodeCoverageData)
+  updateGoogleSpreadSheet(auth, spreadsheetId, sheetName, googleSheetData, googleSheetsInstance)
 }
 
 function generateGoogleSheetData(readData, refactoredCodeCoverageData) {
@@ -76,7 +72,7 @@ async function updateGoogleSpreadSheet(auth, spreadsheetId, sheetName, googleShe
   console.log("SpreadSheet link : https://docs.google.com/spreadsheets/d/" + spreadsheetId)
 }
 
-function getRefactorCSVCodeCoverageData(codeCoverageData) {
+function getRefactoredCSVCodeCoverageData(codeCoverageData) {
   var isPreviousRecordSame = false;
   var packageName;
   var instructionsMissed = 0;
