@@ -32,9 +32,15 @@ function generateGoogleSheetData(readData, refactoredCodeCoverageData) {
     googleSheetData = refactoredCodeCoverageData
   } else {
     var googleSheetData = readData.data.values;
+    var lastUpdatedDate = googleSheetData[0][googleSheetData[0].length - 1]
     for (const i in refactoredCodeCoverageData) {
       var isCurrentDataUpdated = false;
       for (const j in googleSheetData) {
+        if (refactoredCodeCoverageData[0][1] == lastUpdatedDate && refactoredCodeCoverageData[i][0] == googleSheetData[j][0]) {
+          googleSheetData[i][googleSheetData[0].length - 1] = refactoredCodeCoverageData[i][1]
+          isCurrentDataUpdated = true
+          break;
+        }
         if (refactoredCodeCoverageData[i][0] == googleSheetData[j][0]) {
           googleSheetData[j].push(refactoredCodeCoverageData[i][1]);
           isCurrentDataUpdated = true
