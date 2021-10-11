@@ -8,48 +8,49 @@ async function run() {
   const sheetName = core.getInput("SPREADSHEET_NAME");
   const apiClientEmail = core.getInput("API_CLIENT_EMAIL");
   const privateKey = core.getInput("API_PRIVATE_KEY");
-  const codeCoverageData = fs.readFileSync(path).toString().split('\n').map(e => e.trim()).map(e => e.split(',').map(e => e.trim()));
-  var refactoredCodeCoverageData = getRefactoredCSVCodeCoverageData(codeCoverageData);
+  const jacocoReportFileContent = fs.readFileSync(path).toString().split('\n').map(e => e.trim());
+  const codeCoverageDataArray = jacocoReportFileContent.map(e => e.split(',').map(e => e.trim()));
+  let refactoredCodeCoverageData = getRefactoredCSVCodeCoverageData(codeCoverageDataArray);
   const auth = new google.auth.JWT(
     apiClientEmail,
     null,
     privateKey,
     ['https://www.googleapis.com/auth/spreadsheets']
-  )
+  );
   const googleSheetsInstance = google.sheets({ version: "v4", auth: auth });
   const readData = await googleSheetsInstance.spreadsheets.values.get({
     auth,
     spreadsheetId,
     range: sheetName,
-  })
-  const googleSheetData = generateGoogleSheetData(readData, refactoredCodeCoverageData)
-  updateGoogleSpreadSheet(auth, spreadsheetId, sheetName, googleSheetData, googleSheetsInstance)
+  });
+  const googleSheetData = generateGoogleSheetData(readData, refactoredCodeCoverageData);
+  updateGoogleSpreadSheet(auth, spreadsheetId, sheetName, googleSheetData, googleSheetsInstance);
 }
 
 function generateGoogleSheetData(readData, refactoredCodeCoverageData) {
-  var googleSheetData
+  let googleSheetData;
   if (typeof readData.data.values == 'undefined') {
-    googleSheetData = refactoredCodeCoverageData
+    googleSheetData = refactoredCodeCoverageData;
   } else {
-    var googleSheetData = readData.data.values;
-    var lastUpdatedDate = googleSheetData[0][googleSheetData[0].length - 1]
+    googleSheetData = readData.data.values;
+    let lastUpdatedDate = googleSheetData[0][googleSheetData[0].length - 1];
     for (const i in refactoredCodeCoverageData) {
-      var isCurrentDataUpdated = false;
+      let isCurrentDataUpdated = false;
       for (const j in googleSheetData) {
         if (refactoredCodeCoverageData[0][1] == lastUpdatedDate && refactoredCodeCoverageData[i][0] == googleSheetData[j][0]) {
-          googleSheetData[i][googleSheetData[0].length - 1] = refactoredCodeCoverageData[i][1]
-          isCurrentDataUpdated = true
+          googleSheetData[i][googleSheetData[0].length - 1] = refactoredCodeCoverageData[i][1];
+          isCurrentDataUpdated = true;
           break;
         }
         if (refactoredCodeCoverageData[i][0] == googleSheetData[j][0]) {
           googleSheetData[j].push(refactoredCodeCoverageData[i][1]);
-          isCurrentDataUpdated = true
+          isCurrentDataUpdated = true;
           break;
         }
       }
       if (isCurrentDataUpdated == false) {
-        googleSheetData.push([refactoredCodeCoverageData[i][0]])
-        const length = googleSheetData.length - 1
+        googleSheetData.push([refactoredCodeCoverageData[i][0]]);
+        const length = googleSheetData.length - 1;
         for (let i = 0; i < googleSheetData[0].length - 2; i++) {
           googleSheetData[length].push(0);
         }
@@ -75,16 +76,16 @@ async function updateGoogleSpreadSheet(auth, spreadsheetId, sheetName, googleShe
     },
     valueInputOption: "USER_ENTERED"
   });
-  console.log("SpreadSheet link : https://docs.google.com/spreadsheets/d/" + spreadsheetId)
+  console.log("SpreadSheet link : https://docs.google.com/spreadsheets/d/" + spreadsheetId);
 }
 
 function getRefactoredCSVCodeCoverageData(codeCoverageData) {
-  var isPreviousRecordSame = false;
-  var packageName;
-  var instructionsMissed = 0;
-  var instructionsCovered = 0;
+  let isPreviousRecordSame = false;
+  let packageName;
+  let instructionsMissed = 0;
+  let instructionsCovered = 0;
   const todayDate = new Date().toISOString().slice(0, 10);
-  var refactoredCodeCoverageData = [["Package", "Instructions covered in percentage on " + todayDate]];
+  let refactoredCodeCoverageData = [["Package", "Instructions covered in percentage on " + todayDate]];
   for (const i in codeCoverageData) {
     if (i > 0) {
       if (isPreviousRecordSame == false) {
@@ -97,7 +98,7 @@ function getRefactoredCSVCodeCoverageData(codeCoverageData) {
           instructionsMissed = parseInt(instructionsMissed) + parseInt(codeCoverageData[i][3]);
           instructionsCovered = parseInt(instructionsCovered) + parseInt(codeCoverageData[i][4]);
         } else {
-          refactoredCodeCoverageData.push([packageName, parseInt((instructionsCovered / (instructionsMissed + instructionsCovered)) * 100)])
+          refactoredCodeCoverageData.push([packageName, parseInt((instructionsCovered / (instructionsMissed + instructionsCovered)) * 100)]);
           instructionsMissed = 0;
           instructionsCovered = 0;
           instructionsMissed = parseInt(instructionsMissed) + parseInt(codeCoverageData[i][3]);
