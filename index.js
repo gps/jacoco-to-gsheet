@@ -38,7 +38,7 @@ function generateGoogleSheetData(readData, refactoredCodeCoverageData) {
       let isCurrentDataUpdated = false;
       for (const j in googleSheetData) {
         if (refactoredCodeCoverageData[0][1] == lastUpdatedDate && refactoredCodeCoverageData[i][0] == googleSheetData[j][0]) {
-          googleSheetData[i][googleSheetData[0].length - 1] = refactoredCodeCoverageData[i][1];
+          googleSheetData[j][googleSheetData[0].length - 1] = refactoredCodeCoverageData[i][1];
           isCurrentDataUpdated = true;
           break;
         }
@@ -58,6 +58,12 @@ function generateGoogleSheetData(readData, refactoredCodeCoverageData) {
       }
     }
   }
+  googleSheetData.sort(function (a, b) {
+    if (a[0] != "Package") {
+      return a[0].toLowerCase() > b[0].toLowerCase() ? 1 : -1;
+    }
+  });
+  console.log(googleSheetData)
   return googleSheetData;
 }
 
@@ -108,11 +114,6 @@ function getRefactoredCSVCodeCoverageData(codeCoverageData) {
       }
     }
   }
-  refactoredCodeCoverageData.sort(function (a, b) {
-    if (a[0] != "Package") {
-      return a[0].toLowerCase() > b[0].toLowerCase() ? 1 : -1;
-    }
-  });
   return refactoredCodeCoverageData;
 }
 
