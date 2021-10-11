@@ -108,6 +108,11 @@ function getRefactoredCSVCodeCoverageData(codeCoverageData) {
       }
     }
   }
+  refactoredCodeCoverageData.sort(function (a, b) {
+    if (a[0] != "Package") {
+      return a[0].toLowerCase() > b[0].toLowerCase() ? 1 : -1;
+    }
+  });
   return refactoredCodeCoverageData;
 }
 
