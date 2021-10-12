@@ -59,11 +59,11 @@ function generateGoogleSheetData(readData, refactoredCodeCoverageData) {
     }
   }
   googleSheetData.sort(function (a, b) {
-    if (a[0] != "Package") {
-      return a[0].toLowerCase() > b[0].toLowerCase() ? 1 : -1;
-    }
+    if (a[0] == b[0]) return 0;
+    if (a[0] == "Package") return -1;
+    if (b[0] == "Package") return 1;
+    return a[0].toLowerCase() > b[0].toLowerCase() ? 1 : -1;
   });
-  console.log(googleSheetData)
   return googleSheetData;
 }
 
