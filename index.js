@@ -63,7 +63,6 @@ function generateGoogleSheetData(readData, refactoredCodeCoverageData) {
       return a[0].toLowerCase() > b[0].toLowerCase() ? 1 : -1;
     }
   });
-  console.log(googleSheetData)
   return googleSheetData;
 }
 
