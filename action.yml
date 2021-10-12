@@ -1,16 +1,21 @@
 name: jacoco-to-gsheet
-description: 'Action description' # description of the action
+description: 'Adds jacoco code coverage report to the Google spreadsheet'
 inputs:
-  input-1:  # id of input. Github recommendeds using lowercase input ids.
-    description: 'Name of person'   # Description needed for input-1
-    required: false   # optional input
-    default: 'David Beckham' # default value needed for input-1
-  input-2:  # id of input
-    description: 'Provide additional message'
+  SPREADSHEET_ID:
+    description: The id(alphanumeric value that is between the /d/ and the /edit in the URL of your spreadsheet) of the spreadsheet that needs to be updated. 
     required: true
-outputs: # Output section is an optional parameter.
-  time: # id of output
-    description: 'The time when this action was performed'
+  JACOCO_CSV_PATH:
+    description: Path to the jacoco CSV report.
+    required: true
+  SPREADSHEET_NAME:
+    description: Name of the spreadsheet where the report will be stored.
+    required: true
+  API_PRIVATE_KEY:
+    description: Private key to access the Google sheets API.
+    required: true
+  API_CLIENT_EMAIL:
+    description: Email that will be used to edit the Google sheets API.
+    required: true
 runs:
   using: node12
-  main: 'dist/index.js'
+  main: dist/index.js
